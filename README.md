@@ -17,8 +17,8 @@ Mis à jour le 13/05/2024
 | `Bukuo` (taiko) | [Ybt2LNu](https://cdn.discordapp.com/attachments/689401811957710908/1122824307475763200/Ybt2LNu.osk?ex=6643321f&is=6641e09f&hm=15b457a0e9d4ee8c3f897937dd786eac6898c541b56f11ad4b861eb8ae223ac6&)
 | `crazyrush` | [MonkoEdit](https://skins.osuck.net/skins/2011) | NM / HD
 | `Deazir` | [Rafis 2017-08-17](https://skins.osuck.net/skins/165) | TOUT
+| `Dess555` | [Dess](https://drive.google.com/file/d/16RMaFpx-6oWEQs0JFoEZrBo9e-e6dae2/view?usp=sharing) | TOUT
 | `Ekowo` | [Blueberry Ekoro Edit](https://skins.osuck.net/skins/1372) | TOUT
 | `ElextroDarker` (mania) | [『 ElextroDarker 』](https://drive.google.com/file/d/1_teFbOjyI7EWvAqkDKN-7BSWyvHmcHAu/view)
 | `flash1166` (mania) | [CrewK's skin \[KayBlueS edit\]](https://drive.google.com/file/d/1ApGCVFLR1GBeI48kn7UemSVcNZvyDsXX/view)
 | `Floki` | [JustFloki] | NM / (HD)HR
-| 
