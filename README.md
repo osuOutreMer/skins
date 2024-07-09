@@ -1,5 +1,6 @@
 # Liste des skins de tous les joueurs [osu! Outre-Mer](https://discord.com/invite/bkDfcn8uyX)
-Mis à jour le 09/07/2024
+> [!NOTE]
+> Mis à jour le 09/07/2024
 
 -----------------
 
