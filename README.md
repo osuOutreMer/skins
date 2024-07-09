@@ -1,5 +1,5 @@
 # Liste des skins de tous les joueurs [osu! Outre-Mer](https://discord.com/invite/bkDfcn8uyX)
-Mis à jour le 13/05/2024
+Mis à jour le 09/07/2024
 
 -----------------
 
@@ -14,9 +14,9 @@ Mis à jour le 13/05/2024
 | `Arakine` (new) | [Dracula remade by Jolene]([https://drive.google.com/file/d/1BN1cwvL0Yqqzzzttb2WBvZkUJp3r9zVi](https://1drv.ms/u/s!AljVEB6Pg-fPgsdJ2sAr_b2wINPHaA?e=elEtVN))
 | `bluekoren` | [bluekoren's skin]() | TOUT
 | `Bourouan` | [WhiteCat 2.1 (old-blue-ck)](https://skins.osuck.net/skins/2021) | NM...
-| `Bukuo` | [『Ganyu』](https://reddit.com/kd5t1a) | NM / (HD)HR
-| `Bukuo` (mania) | [Bukuo x TO-R CUSTOM](https://drive.google.com/file/d/1kpZ6pAhPxYFtjEYhekcMmAk6Zq3LEOrs/view?usp=sharing) | 
-| `Bukuo` (taiko) | [Ybt2LNu](https://cdn.discordapp.com/attachments/689401811957710908/1122824307475763200/Ybt2LNu.osk?ex=6643321f&is=6641e09f&hm=15b457a0e9d4ee8c3f897937dd786eac6898c541b56f11ad4b861eb8ae223ac6&)
+| `Bukuo` (old) | [『Ganyu』](https://reddit.com/kd5t1a) | NM / (HD)HR
+| `Bukuo` (new) | [Lady BERNKASTEL (edit)](https://drive.google.com/file/d/11mxhNqDyoxl5CUyLEc75QlwcpMKS8nrZ/view?usp=sharing) | NM / (HD)HR
+| `Bukuo` (mania/taiko) | [Bukuo x TO-R CUSTOM](https://drive.google.com/file/d/1sC--6wMtE3iZmu4fcWZgqKjyybqkN4w6/view?usp=sharing) | 
 | `Bukuo` (ctb) | [AK Eris Greyat](https://osu.ppy.sh/community/forums/topics/1924459) | NM
 | `byo` | [JBN Skin X <Pro>](https://didiermichon.s-ul.eu/u3ctl7hc)
 | `crazyrush` | [MonkoEdit](https://skins.osuck.net/skins/2011) | NM / HD
