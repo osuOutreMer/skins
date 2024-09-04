@@ -19,6 +19,7 @@
 | `Bukuo` (new) | [Lady BERNKASTEL (edit)](https://drive.google.com/file/d/11mxhNqDyoxl5CUyLEc75QlwcpMKS8nrZ/view?usp=sharing) | NM / (HD)HR
 | `Bukuo` (mania/taiko) | [Bukuo x TO-R CUSTOM](https://drive.google.com/file/d/1sC--6wMtE3iZmu4fcWZgqKjyybqkN4w6/view?usp=sharing) | 
 | `Bukuo` (ctb) | [AK Eris Greyat](https://osu.ppy.sh/community/forums/topics/1924459) | NM
+| `burekou` | [tekk_kablsdsss](https://cdn.discordapp.com/attachments/927904588017836112/1219062082650116209/tekk_kablsdsss.osk?ex=66d99349&is=66d841c9&hm=0f62488ff3bd4aad0dfe3a5044d9611f93fc50a777a5718a6730f9172ddfb07e&) | TOUT
 | `byo` | [JBN Skin X <Pro>](https://didiermichon.s-ul.eu/u3ctl7hc)
 | `crazyrush` | [MonkoEdit](https://skins.osuck.net/skins/2011) | NM / HD
 | `Deazir` | [Rafis 2017-08-17](https://skins.osuck.net/skins/165) | TOUT
