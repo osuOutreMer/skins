@@ -43,6 +43,7 @@
 | `Shuzuru` | [QYS3 - BlueMiku](https://cdn.discordapp.com/attachments/1233294045866885151/1233306723713028219/QYS3_-_BlueMiku.osk?ex=6688e6e4&is=66879564&hm=ca26416cd53203edfd30156cb368d988842bc6b602380ac98440d0b79792d306&) | NM...
 | `Shuzuru` (mania) | [maskerananewskin22384892354.osk](https://cdn.discordapp.com/attachments/1233294045866885151/1235639450080383026/maskearanewskin22384892354.osk?ex=6688d1a9&is=66878029&hm=cf4946b3570985beec1eb4582563787a9e5818dbf0d51baa34633f4665df735e&) | NM
 | `Sounny` (ctb) | [Jimmy Rustler 10-08-17](https://bit.ly/3e0jNzs) | TOUT
+| `Splenchy` (taiko) | [Orbit v9](https://osu.ppy.sh/community/forums/topics/155489?n=1)
 | `SUN A MAL AU Q` | [JesusOmega(NM)](https://skins.osuck.net/skins/1489) | NM
 | `SuperMegaT` | [vv_idke_trail v1.0](https://skins.osuck.net/skins/866?v=0) | NM
 | `VTsukinose`| [⌞ও ライスシャワー - nanoya skin mix ও⌝](https://www.reddit.com/r/OsuSkins/comments/y8hp45/%E0%A6%93_%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC_nanoya_skin_mix_%E0%A6%93/)
