@@ -47,6 +47,7 @@
 | `Splenchy` (taiko) | [Orbit v9](https://osu.ppy.sh/community/forums/topics/155489?n=1)
 | `SUN A MAL AU Q` | [JesusOmega(NM)](https://skins.osuck.net/skins/1489) | NM
 | `SuperMegaT` | [vv_idke_trail v1.0](https://skins.osuck.net/skins/866?v=0) | NM
+| `Viraemia` | [Willy (edited)](https://link.issou.best/skin/21937) | NM...
 | `VTsukinose`| [⌞ও ライスシャワー - nanoya skin mix ও⌝](https://www.reddit.com/r/OsuSkins/comments/y8hp45/%E0%A6%93_%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC_nanoya_skin_mix_%E0%A6%93/)
 | `Xenord` | [fwootable DT Zylice Edit](https://drive.google.com/file/d/1bXteV6JrBPsCMEAdOGZX1BwVKvgI4TO4/view?usp=sharing) | (HD)DT
 | `Xevyyy` | [MonkoEdit 1.0](https://skins.osuck.net/skins/2011?v=0) | DT / HR
